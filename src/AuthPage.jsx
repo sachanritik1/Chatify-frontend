@@ -12,7 +12,7 @@ const AuthPage = (props) => {
 
   return (
     <div className="background">
-       <h1 class="filltext">Chatify</h1>
+       <h1 className="filltext">Chatify</h1>
       <form onSubmit={onSubmit} className="form-card">
        
         <div className="auth">
